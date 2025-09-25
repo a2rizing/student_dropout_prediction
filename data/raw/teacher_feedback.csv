@@ -1,0 +1,101 @@
+id,feedback_text,sentiment
+1,Helps classmates during group work.,Positive
+2,Not outstanding but steady.,Neutral
+3,Distracts others during class.,Negative
+4,Helps classmates during group work.,Positive
+5,Not outstanding but steady.,Neutral
+6,The student rarely pays attention.,Negative
+7,Helps classmates during group work.,Positive
+8,Neutral behavior in class.,Neutral
+9,Distracts others during class.,Negative
+10,The student works hard and submits on time.,Positive
+11,"Sometimes participates, sometimes doesn’t.",Neutral
+12,Often misses deadlines.,Negative
+13,Helps classmates during group work.,Positive
+14,"Sometimes participates, sometimes doesn’t.",Neutral
+15,Shows lack of interest in studies.,Negative
+16,Helps classmates during group work.,Positive
+17,Not outstanding but steady.,Neutral
+18,Does not complete homework.,Negative
+19,The student works hard and submits on time.,Positive
+20,"Sometimes participates, sometimes doesn’t.",Neutral
+21,The student rarely pays attention.,Negative
+22,The student works hard and submits on time.,Positive
+23,Neutral behavior in class.,Neutral
+24,Distracts others during class.,Negative
+25,Consistently performs well in tests.,Positive
+26,Not outstanding but steady.,Neutral
+27,Shows lack of interest in studies.,Negative
+28,The student works hard and submits on time.,Positive
+29,Neutral behavior in class.,Neutral
+30,Shows lack of interest in studies.,Negative
+31,Helps classmates during group work.,Positive
+32,Neutral behavior in class.,Neutral
+33,The student rarely pays attention.,Negative
+34,The student works hard and submits on time.,Positive
+35,Completes work but without much interest.,Neutral
+36,Distracts others during class.,Negative
+37,The student works hard and submits on time.,Positive
+38,Completes work but without much interest.,Neutral
+39,Shows lack of interest in studies.,Negative
+40,Shows improvement every week.,Positive
+41,Neutral behavior in class.,Neutral
+42,The student rarely pays attention.,Negative
+43,Consistently performs well in tests.,Positive
+44,Completes work but without much interest.,Neutral
+45,Does not complete homework.,Negative
+46,The student works hard and submits on time.,Positive
+47,Completes work but without much interest.,Neutral
+48,Distracts others during class.,Negative
+49,Shows improvement every week.,Positive
+50,Completes work but without much interest.,Neutral
+51,Distracts others during class.,Negative
+52,Shows improvement every week.,Positive
+53,"Sometimes participates, sometimes doesn’t.",Neutral
+54,The student rarely pays attention.,Negative
+55,Consistently performs well in tests.,Positive
+56,Not outstanding but steady.,Neutral
+57,Distracts others during class.,Negative
+58,Shows improvement every week.,Positive
+59,"Sometimes participates, sometimes doesn’t.",Neutral
+60,Often misses deadlines.,Negative
+61,Shows improvement every week.,Positive
+62,"Sometimes participates, sometimes doesn’t.",Neutral
+63,Often misses deadlines.,Negative
+64,Helps classmates during group work.,Positive
+65,Not outstanding but steady.,Neutral
+66,Does not complete homework.,Negative
+67,Helps classmates during group work.,Positive
+68,Completes work but without much interest.,Neutral
+69,Often misses deadlines.,Negative
+70,Shows improvement every week.,Positive
+71,Not outstanding but steady.,Neutral
+72,The student rarely pays attention.,Negative
+73,Shows improvement every week.,Positive
+74,Completes work but without much interest.,Neutral
+75,Does not complete homework.,Negative
+76,Helps classmates during group work.,Positive
+77,The student performs at an average level.,Neutral
+78,The student rarely pays attention.,Negative
+79,Consistently performs well in tests.,Positive
+80,"Sometimes participates, sometimes doesn’t.",Neutral
+81,Distracts others during class.,Negative
+82,Helps classmates during group work.,Positive
+83,Completes work but without much interest.,Neutral
+84,Distracts others during class.,Negative
+85,Consistently performs well in tests.,Positive
+86,Neutral behavior in class.,Neutral
+87,Shows lack of interest in studies.,Negative
+88,Consistently performs well in tests.,Positive
+89,Completes work but without much interest.,Neutral
+90,Shows lack of interest in studies.,Negative
+91,Helps classmates during group work.,Positive
+92,Completes work but without much interest.,Neutral
+93,Distracts others during class.,Negative
+94,Shows improvement every week.,Positive
+95,Neutral behavior in class.,Neutral
+96,Does not complete homework.,Negative
+97,Very attentive in class.,Positive
+98,Completes work but without much interest.,Neutral
+99,Often misses deadlines.,Negative
+100,The student works hard and submits on time.,Positive

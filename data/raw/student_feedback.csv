@@ -1,0 +1,101 @@
+id,feedback_text,sentiment
+1,The teacher explains concepts clearly.,Positive
+2,"Sometimes good, sometimes boring.",Neutral
+3,Makes learning stressful.,Negative
+4,My teacher motivates me to do better.,Positive
+5,The explanations are okay.,Neutral
+6,Makes learning stressful.,Negative
+7,Always encourages participation.,Positive
+8,The class pace is average.,Neutral
+9,Ignores students' problems.,Negative
+10,Makes lessons engaging and fun.,Positive
+11,"Sometimes good, sometimes boring.",Neutral
+12,Ignores students' problems.,Negative
+13,The teacher explains concepts clearly.,Positive
+14,The lessons are fine but sometimes too long.,Neutral
+15,Gets irritated when asked questions.,Negative
+16,Makes lessons engaging and fun.,Positive
+17,"Sometimes good, sometimes boring.",Neutral
+18,Doesn't clear doubts properly.,Negative
+19,The teacher explains concepts clearly.,Positive
+20,Nothing special about the teaching style.,Neutral
+21,Makes learning stressful.,Negative
+22,My teacher motivates me to do better.,Positive
+23,The class pace is average.,Neutral
+24,Doesn't clear doubts properly.,Negative
+25,Makes lessons engaging and fun.,Positive
+26,Nothing special about the teaching style.,Neutral
+27,The teacher rushes through topics.,Negative
+28,Very patient and helpful.,Positive
+29,The lessons are fine but sometimes too long.,Neutral
+30,Ignores students' problems.,Negative
+31,Always encourages participation.,Positive
+32,The explanations are okay.,Neutral
+33,The teacher rushes through topics.,Negative
+34,Always encourages participation.,Positive
+35,The class pace is average.,Neutral
+36,Doesn't clear doubts properly.,Negative
+37,Always encourages participation.,Positive
+38,The class pace is average.,Neutral
+39,Makes learning stressful.,Negative
+40,Always encourages participation.,Positive
+41,The class pace is average.,Neutral
+42,The teacher rushes through topics.,Negative
+43,Always encourages participation.,Positive
+44,Nothing special about the teaching style.,Neutral
+45,Gets irritated when asked questions.,Negative
+46,Very patient and helpful.,Positive
+47,The explanations are okay.,Neutral
+48,Makes learning stressful.,Negative
+49,Makes lessons engaging and fun.,Positive
+50,Nothing special about the teaching style.,Neutral
+51,Makes learning stressful.,Negative
+52,Very patient and helpful.,Positive
+53,"Sometimes good, sometimes boring.",Neutral
+54,The teacher rushes through topics.,Negative
+55,The teacher explains concepts clearly.,Positive
+56,Nothing special about the teaching style.,Neutral
+57,Makes learning stressful.,Negative
+58,Makes lessons engaging and fun.,Positive
+59,The class pace is average.,Neutral
+60,Gets irritated when asked questions.,Negative
+61,Makes lessons engaging and fun.,Positive
+62,The class pace is average.,Neutral
+63,Ignores students' problems.,Negative
+64,The teacher explains concepts clearly.,Positive
+65,"Sometimes good, sometimes boring.",Neutral
+66,Makes learning stressful.,Negative
+67,Very patient and helpful.,Positive
+68,Nothing special about the teaching style.,Neutral
+69,Makes learning stressful.,Negative
+70,Very patient and helpful.,Positive
+71,"Sometimes good, sometimes boring.",Neutral
+72,Ignores students' problems.,Negative
+73,The teacher explains concepts clearly.,Positive
+74,Nothing special about the teaching style.,Neutral
+75,Ignores students' problems.,Negative
+76,The teacher explains concepts clearly.,Positive
+77,The lessons are fine but sometimes too long.,Neutral
+78,Ignores students' problems.,Negative
+79,Makes lessons engaging and fun.,Positive
+80,"Sometimes good, sometimes boring.",Neutral
+81,The teacher rushes through topics.,Negative
+82,Makes lessons engaging and fun.,Positive
+83,The lessons are fine but sometimes too long.,Neutral
+84,Doesn't clear doubts properly.,Negative
+85,The teacher explains concepts clearly.,Positive
+86,Nothing special about the teaching style.,Neutral
+87,Ignores students' problems.,Negative
+88,Always encourages participation.,Positive
+89,The explanations are okay.,Neutral
+90,Gets irritated when asked questions.,Negative
+91,My teacher motivates me to do better.,Positive
+92,The explanations are okay.,Neutral
+93,Doesn't clear doubts properly.,Negative
+94,Makes lessons engaging and fun.,Positive
+95,The lessons are fine but sometimes too long.,Neutral
+96,Gets irritated when asked questions.,Negative
+97,Very patient and helpful.,Positive
+98,The class pace is average.,Neutral
+99,Doesn't clear doubts properly.,Negative
+100,The teacher explains concepts clearly.,Positive
